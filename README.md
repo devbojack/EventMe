@@ -19,6 +19,26 @@ To build **EventMe**, we plan to utilize a combination of technologies, language
 - **Database**: We'll utilize both SQL and Firebase to manage our data and provide a scalable and efficient data storage solution.
 - **Testing**: We will carefully select the most suitable testing frameworks to ensure the reliability and stability of Event Me.
 - **Tools**: Firebase, Flask, Node.js, Git/GitHub, and npm/yarn. They cover databases, back-end frameworks, server environments, version control, and package management.
+ 
+
+ ## APIs
+ 
+- **Eventbrite API**
+    - **EventMe** leverages Eventbrite's API to access a broad spectrum of events, including conferences, seminars, and local gatherings. It allows users to discover and explore various events based on categories, locations, and dates.
+
+- **Meetup API**
+    - The Meetup API integration in **EventMe** enables users to find community-based events organized by local groups. It provides access to meetups covering diverse interests, hobbies, and social activities.
+
+- **Ticketmaster API**
+    - **EventMe** incorporates the Ticketmaster API to offer users access to a wide array of entertainment events, including concerts, sports matches, theater shows, and more. It provides detailed event information and ticket availability for various entertainment options.
+
+- **Eventful API**
+    - By utilizing the Eventful API, EventMe provides users with an extensive range of events, from concerts and festivals to community gatherings. The API enhances the platform's event diversity, offering comprehensive options for users.
+
+- **Google Calendar API**
+    - EventMe integrates the Google Calendar API to supplement its event listings with public events available on Google Calendars. This API enriches the app's content by including events from publicly accessible calendars.
+
+Each API serves a unique purpose, enriching the app's event catalog and providing users with a diverse range of options based on their preferences, locations, and interests. Integrating these APIs ensures that EventMe offers a comprehensive and varied selection of events, catering to a wide audience with different tastes and preferences.
 
 ## Challenge Statement
 **EventMe** is on a mission to address a multifaceted challenge in the world of event management. We strive to provide the public with a comprehensive repository of information about upcoming and past events, creating a dynamic multimedia experience that includes images, videos, and highlights of what was or would be accomplished. This endeavor answers the problem of inadequate event information and makes event discovery a rich and engaging experience.
