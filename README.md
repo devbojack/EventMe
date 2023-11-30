@@ -1,5 +1,14 @@
-# EventMe
-**Unveiling Moments, Connecting Communities**
+# EventMe - Unveiling Moments, Connecting Communities
+
+![](/images/home-one.png)
+
+<hr>
+
+![](/images/home_two.png)
+
+<hr>
+
+![](/images/home_three.png)
 
 ## Introduction
 
